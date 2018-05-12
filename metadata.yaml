@@ -1,0 +1,30 @@
+_repo: '---_29079'
+_version: 0.1.0
+alternative_title: Wu Se Shi
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wuseshizhuren, ju ren 1738
+    aliases:
+    - Xu, Shukui
+    - Xu, Xiaowen
+    - Xu, Gengya
+    - 五色石主人
+    gutenberg_agent_id: '31172'
+    url: http://www.gutenberg.org/2009/agents/31172
+description: ''
+gutenberg_issued: '2009-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29079'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction -- Qing dynasty, 1644-1912'
+- !lcc 'PL'
+title: 五色石
+url: http://www.gutenberg.org/ebooks/29079
